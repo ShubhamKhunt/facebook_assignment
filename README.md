@@ -6,22 +6,22 @@ https://careers.rtcamp.com/web-engineer/assignments/#facebook-challenge
 ### SDK Integration
 
 ##### Facebook Integration - "Javascript SDK"
-=> Google Drive Integration - "PHP SDK"
+##### Google Drive Integration - "PHP SDK"
 
 
 
-#Created in PHP and following additional Web Technologies are also integrated
+### Created in PHP and following additional Web Technologies are also integrated
 
-=> CSS, Javascript
-	- for layout, value assignment and validation.
+##### CSS, Javascript
+#######	- for layout, value assignment and validation.
 
-=> jQuery 2.2.0
-	- jQuery ajax to process files in background
+##### jQuery 2.2.0
+#######	- jQuery ajax to process files in background
 	
-=> Fancybox javascript framework
+##### Fancybox javascript framework
 	- for slideshow to provide better experience - on user_albums.php page here is the screenshot :: http://prntscr.com/g97y5l
 	
-=> Slick slider
+##### Slick slider
 	- responsive and flexible slider to able to slide user albums.
 	
 => Font Awesome Font Script
