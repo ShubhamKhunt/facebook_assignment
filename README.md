@@ -5,7 +5,7 @@ https://careers.rtcamp.com/web-engineer/assignments/#facebook-challenge
 
 ### SDK Integration
 
-=> Facebook Integration - "Javascript SDK"
+##### Facebook Integration - "Javascript SDK"
 => Google Drive Integration - "PHP SDK"
 
 
